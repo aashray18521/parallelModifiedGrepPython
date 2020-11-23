@@ -8,3 +8,4 @@ Output will be list of filespaths of all the files (recursively) which have the 
 
 #### To Do:
 You can increase the number of processes and limit the Queue size based on your requirement.
+You can add Variable Batch Size
