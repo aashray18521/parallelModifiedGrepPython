@@ -2,8 +2,8 @@ import multiprocessing
 import os
 import time
 
-rootdir = "."
-keyword = "blah"
+rootdir = input()
+keyword = input()
 
 batch_size = 1
 
