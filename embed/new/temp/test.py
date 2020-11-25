@@ -66,9 +66,6 @@ def walk_dirs(directory, batch_size):
 
 # q1.push(result())
 
-# veeresh@amagi.com
-# 8296750908
-
 
 
 
