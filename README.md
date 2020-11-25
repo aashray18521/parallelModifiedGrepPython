@@ -7,5 +7,5 @@ Enter your keyword (press return)
 Output will be list of filespaths of all the files (recursively) which have the keyword.
 
 #### To Do:
-You can increase the number of processes and limit the Queue size based on your requirement.
-You can add Variable Batch Size
+1. You can increase the number of processes and limit the Queue size based on your requirement.
+2. You can add Variable Batch Size
